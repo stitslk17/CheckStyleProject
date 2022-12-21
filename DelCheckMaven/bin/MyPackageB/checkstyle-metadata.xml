@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE checkstyle-metadata PUBLIC
+"-//eclipse-cs//DTD Check Metadata 1.1//EN"
+"http://eclipse-cs.sourceforge.net/dtds/checkstyle-metadata_1_1.dtd">
+<checkstyle-metadata>
+    <rule-group-metadata name="Del Checks"  priority="1600">
+        <description>desc</description>
+        
+        <rule-metadata name="BCheck1.name" internal-name="BCheck1" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageB.BCheck1" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="BCheck2.name" internal-name="BCheck2" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageB.BCheck2" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="BCheck3.name" internal-name="BCheck3" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageB.BCheck3" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="BCheck4.name" internal-name="BCheck4" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageB.BCheck4" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="BCheck5.name" internal-name="BCheck5" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageB.BCheck5" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="BCheck6.name" internal-name="BCheck6" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageB.BCheck6" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        </rule-group-metadata>
+</checkstyle-metadata>

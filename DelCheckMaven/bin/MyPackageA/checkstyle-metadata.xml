@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE checkstyle-metadata PUBLIC
+"-//eclipse-cs//DTD Check Metadata 1.1//EN"
+"http://eclipse-cs.sourceforge.net/dtds/checkstyle-metadata_1_1.dtd">
+<checkstyle-metadata>
+    <rule-group-metadata name="Del Checks"  priority="1600">
+        <description>desc</description>
+        
+        <rule-metadata name="ACheck1.name" internal-name="ACheck1" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageA.ACheck1" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="ACheck2.name" internal-name="ACheck2" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageA.ACheck2" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="ACheck3.name" internal-name="ACheck3" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageA.ACheck3" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="ACheck4.name" internal-name="ACheck4" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageA.ACheck4" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        <rule-metadata name="ACheck5.name" internal-name="ACheck5" parent="TreeWalker">
+            <alternative-name internal-name="MyPackageA.ACheck5" />
+            <description>desc</description>
+        </rule-metadata>
+        
+        </rule-group-metadata>
+</checkstyle-metadata>
